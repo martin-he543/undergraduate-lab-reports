@@ -43,7 +43,7 @@
 
 ###### Summer Project: Award Recipients [Excellent First Class]
 
-Received £160 in Amazon vouchers for our Summer Project:
+Received £160 in Amazon vouchers for our Summer Project:<br />
 Construction of Scanning Laser Confocal (SLC) Microscope.
 
 - Video `Construction of SLC Microscope.mp4`
