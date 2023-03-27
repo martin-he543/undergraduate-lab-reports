@@ -46,7 +46,8 @@
 Received £160 in Amazon vouchers for our Summer Project, Construction of Scanning Laser Confocal (SLC) Microscope.
 
 - Video `Construction of SLC Microscope.mp4`
-- Report `Construction of Scanning Laser Microscope`
+- Report `Construction of Scanning Laser Microscope.pdf`
+- Poster
 
 ### Second Year Labs
 
