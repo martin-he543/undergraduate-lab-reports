@@ -3,13 +3,13 @@
 ## Lab Reports
 
 1. Determination of Planck's Constant `Determining Planck's Constant.pdf`
-   marked by Dr. Isabel Rabey [57/100]
+   <br />marked by Dr. Isabel Rabey [57/100]
 2. Investigation of Diffraction Patterns `Investigation of Diffraction Patterns.pdf`
-   marked by Ms. Laura Warwick [57/100]
+   <br />marked by Ms. Laura Warwick [57/100]
 3. Measuring the Rydberg Constant `Measuring the Rydberg Constant.pdf`
-   marked by Prof. Yoshi Uchida [73/100]
+   <br />marked by Prof. Yoshi Uchida [73/100]
 4. Discovery of the Higgs Boson `Discovery of the Higgs Boson.pdf`
-   marked by Prof. Mark Richards [72/100]
+   <br />marked by Prof. Mark Richards [72/100]
 
 ### First Year Labs [Overall: 74.5% - FIRST]
 
@@ -49,6 +49,7 @@ Construction of Scanning Laser Confocal (SLC) Microscope.
 - Video `Construction of SLC Microscope.mp4`
 - Report `Construction of Scanning Laser Microscope.pdf`
 - Poster `Summer Project Poster X.pdf,  X = {1, 2, 3}`
+- Feedback `Summer Project Feedback.txt`
 
 ### Second Year Labs
 
