@@ -47,7 +47,7 @@ Received £160 in Amazon vouchers for our Summer Project, Construction of Scanni
 
 - Video `Construction of SLC Microscope.mp4`
 - Report `Construction of Scanning Laser Microscope.pdf`
-- Poster
+- Poster `Summer Project Poster X.pdf`,  X = {1, 2, 3}
 
 ### Second Year Labs
 
